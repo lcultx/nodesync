@@ -1,0 +1,27 @@
+{
+  "name": "nodesync",
+  "version": "0.0.0",
+  "description": "a helper call node-sleep to change async method to sync ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gastrodia/nodesync.git"
+  },
+  "keywords": [
+    "sleep",
+    "sync",
+    "async"
+  ],
+  "author": "gastrodia",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/gastrodia/nodesync/issues"
+  },
+  "homepage": "https://github.com/gastrodia/nodesync",
+  "dependencies": {
+    "node-sleep": "0.0.0"
+  }
+}
